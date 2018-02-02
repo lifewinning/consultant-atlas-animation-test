@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Fly to a location</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+    #fly {
+        display: block;
+        position: relative;
+        margin: 5px ;
+        /*width: 20%;*/
+       /* height: 40px;*/
+        padding: 10px;
+        border: none;
+        font-size: 12px;
+/*        text-align: center;*/
+        color: #fff;
+        background: #ee8a65;
+        font-family: sans-serif;
+        font-weight: 800;
+    }
+</style>
+<div id='map'></div>
+<br/>
+<div id='fly'><h1 id ='header'></h1><h3 id='desc'></h3></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72HyEjF2AOMbRNvg';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/lifewinning/cjd52cola5t0g2rnvua7d2frg',
+    center: [ -73.9708,40.68295],
+    zoom: 8
+});
+
+var xhr = new XMLHttpRequest();
+xhr.open('GET', 'bratton-points.geojson');
+xhr.onload = function() {
+    if (xhr.status === 200) {
+        data = JSON.parse(xhr.responseText);
+        var title = document.getElementById('header');
+        var description = document.getElementById('desc');
+
+        function playback(index) {
+            title.textContent = data.features[index].properties.location
+            description.textContent = data.features[index].properties.year+' '+data.features[index].properties.work;
+
+            // Animate the map position based on camera properties
+            map.flyTo({center: data.features[index].geometry.coordinates});
+
+            map.once('moveend', function() {
+                // Duration the slide is on screen after interaction
+                window.setTimeout(function() {
+                    // Increment index
+                    index = (index + 1 === data.features.length) ? 0 : index + 1;
+                    playback(index);
+                }, 3000); // After callback, show the location for 3 seconds.
+            });
+        } 
+
+        playback(0)    
+      
+    }
+    else {
+        console.log('oh no what on earth happened');
+    }
+};
+xhr.send();
+
+</script>
+
+</body>
+</html>

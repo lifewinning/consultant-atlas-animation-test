@@ -46,11 +46,6 @@ h1, h3{
 <div id='map'></div>
 <!-- TODO: add buttons for cops, load AJAX on click, this is not as complicated as I think it is -->
  <div id='fly'>
-    <div id='nav'>
-    <span class="select" id="bratton" onclick=xhrify('bratton-points.geojson')>Bratton</span>
-    <span class="select" id="maple" onclick=xhrify('maple-points.geojson')>Maple</span>
-    <span class="select" id="timoney">Timoney</span>
-</div>
     <h1 id ='header'></h1><h3 id='desc'></h3><p id='notes'></p></div>
 <br/>
 <script>
@@ -62,6 +57,7 @@ var map = new mapboxgl.Map({
     zoom: 8
 });
 
+xhrify('../maple-points.geojson')
 function xhrify(cop){
     var xhr = new XMLHttpRequest();
     xhr.open('GET', cop);
@@ -97,13 +93,13 @@ function playback(index) {
     // Animate the map position based on camera properties
     // click = document.getElementById(data.cop)
     // click.onclick = function() {
-       window.setTimeout(function(){
-        map.flyTo({center: data.features[index].geometry.coordinates, zoom: 12});
-       }, 1500)
-       map.once('moveend', function() {
-        title.textContent = data.features[index].properties.location
+     title.textContent = data.features[index].properties.location
        description.textContent = data.features[index].properties.year+' | '+data.features[index].properties.work;
        notes.textContent = data.features[index].properties.notes;
+       window.setTimeout(function(){
+        map.flyTo({center: data.features[index].geometry.coordinates, zoom: 12});
+       }, 500)
+       map.once('moveend', function() {
         // Duration the slide is on screen after interaction
         window.setTimeout(function() {
             // Increment index

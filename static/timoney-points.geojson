@@ -1,0 +1,162 @@
+{	"cop": "Timoney",
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.800929, 33.530651]
+			},
+			"properties": {
+				"cartodb_id": 36,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Birmingham, AL",
+				"year": 1996,
+				"notes": "Bratton and John Timoney consulted for the Birmingham Police Department shortly after leaving New York. In his memoir, Timoney noted that while he was familiar with Bull Connor's legacy over the department, \"while we expected to see some problems within the department, the issue of race, we believed, was a thing of the past.\""
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-6.281314, 53.33928]
+			},
+			"properties": {
+				"cartodb_id": 25,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Dublin, Ireland",
+				"year": 1996,
+				"notes": "Timoney participated on a \"blue-ribbon panel\" selected by the Ireland Ministry of Justice to review the national police force following the assassination of Irish investigative journalist Veronica Guerin. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [32.85427, 39.91987]
+			},
+			"properties": {
+				"cartodb_id": 26,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Ankara, Turkey",
+				"year": 1997,
+				"notes": "Maple and John Timoney consulted the Turkish National Police Association, where Timoney once again encountered surprise at the legacy of police as instrument of state violence seemingly undermining public trust in the institution. "
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-58.454595, -34.607357]
+			},
+			"properties": {
+				"cartodb_id": 27,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Buenos Aires, Argentina",
+				"year": 1997,
+				"notes": "As in his experiences in Ankara, Timoney lamented how the history of state-backed police violence in Buenos Aires \"dominated any conversation regarding reform\" when he consulted there. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-51.568974, -29.729642]
+			},
+			"properties": {
+				"cartodb_id": 28,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Fortaleza, Brazil",
+				"year": 1997,
+				"notes": "Consulting job with Bill Bratton. In his memoir, Timoney notes that their presence inadvertently sparked a series of protests by police officers demanding higher pay (something he writes he advocates for frequently, seeing as \"you get what you pay for\" when underpaying your officers)."
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.168428, 39.990821]
+			},
+			"properties": {
+				"cartodb_id": 29,
+				"cop": "Timoney",
+				"work": "commissioner",
+				"location": "Philadelphia, PA",
+				"year": 1998,
+				"notes": "Thanks in part to Bill Bratton, John Timoney was hired to lead the Philadelphia Police Department by then mayor Ed Rendell. Among  notable incidents during his three-year tenure included a harsh crackdown on protestors during the 2000 Republican National Convention in Philadelphia, during which 380 people were arrested and activist spaces were raided by Philadelphia police, presumably to protect the RNC from the scourge of banners and large puppets."
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.210268, 25.766368]
+			},
+			"properties": {
+				"cartodb_id": 30,
+				"cop": "Timoney",
+				"work": "commissioner",
+				"location": "Miami, FL",
+				"year": 2003,
+				"notes": "After a brief but under-documented return to private consulting, Timoney was selected to lead the Miami Police Department.  In his first year, Timoney employed what would later be known as the \"Miami model\" of coordinated brutal police crackdown on protests during trade negotiations for the Free Trade Area of the Americas agreement. For much of his tenure, Timoney left Miami frequently for public speaking and consulting engagements. He resigned in 2009. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.294701, 19.251299]
+			},
+			"properties": {
+				"cartodb_id": 31,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Haiti",
+				"year": 2003,
+				"notes": "Little documentation beyond Timoney's own professional biography exists for this engagement. Unclear if this is an example of resume-puffery."
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.967722, 21.329612]
+			},
+			"properties": {
+				"cartodb_id": 33,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Guantanamo Bay, Cuba",
+				"year": 2005,
+				"notes": "It's unclear whether to call this engagement meaningful consulting or a photo-op–while Timoney listed his visit to GTMO on several professional biographies, reports from 2005 suggest he simply attended one of the many media-orchestrated tours of the detention camp at the base. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [43.614805, 32.765286]
+			},
+			"properties": {
+				"cartodb_id": 34,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Iraq",
+				"year": 2007,
+				"notes": "Timoney was a member of the Independent Commission on the Security Forces of Iraq, a commission appointed by Congress to asses the Iraqi Security Forces. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [50.551925, 26.020458]
+			},
+			"properties": {
+				"cartodb_id": 35,
+				"cop": "Timoney",
+				"work": "consulting",
+				"location": "Bahrain",
+				"year": 2011,
+				"notes": "Timoney was hired by the Bahrain Ministry of the Interior n December 2011 to consult with the Bahrain police in the wake of violent suppression of Arab Spring protests earlier that same year. Within a few months of joining the Ministry, three protestors died in police-related incidents. "
+			}
+		}
+	]
+}

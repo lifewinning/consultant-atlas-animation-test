@@ -1,0 +1,105 @@
+{
+	"cop": "Maple",
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.889852, 30.056708]
+			},
+			"properties": {
+				"cartodb_id": 17,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "New Orleans, LA",
+				"year": 1996,
+				"notes": "Maple and colleague John Linder were paid $900,000 over 18 months by the New Orleans Police Foundation to consult for the New Orleans Police Department. In a USA Today profile highlighting Maple's New Orleans work, Maple noted  \"You give me any department, anywhere, and I'll make it work. I could turn Washington, D.C., into Mayberry, RFD.\""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.048611, 42.355492]
+			},
+			"properties": {
+				"cartodb_id": 20,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "Boston, MA",
+				"year": 1997,
+				"notes": "Little documentation of this work other than a 1997 USA Today profile which noted that Maple's firm with John Linder \"already works with the transit police in Boston.\""
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.185043, 40.718707]
+			},
+			"properties": {
+				"cartodb_id": 19,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "Newark, NJ",
+				"year": 1997,
+				"notes": "Maple and Linder were hired by the Newark Police Department for an eleven-month contract at a fee of $343,200"
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [32.85427, 39.91987]
+			},
+			"properties": {
+				"cartodb_id": 21,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "Ankara, Turkey",
+				"year": 1997,
+				"notes": "Maple and John Timoney consulted the Turkish National Police Association, where Timoney once again encountered surprise at the legacy of police as instrument of state violence seemingly undermining public trust in the institution. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.481065, 18.234668]
+			},
+			"properties": {
+				"cartodb_id": 22,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "Puerto Rico",
+				"year": 1997,
+				"notes": "There's not a lot documented about this particular consulting job other than a Daily News Article in which Bratton mentions it and a job in New Bedford with Maple. "
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-70.945702, 41.667736]
+			},
+			"properties": {
+				"cartodb_id": 23,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "New Bedford, MA",
+				"year": 1997,
+				"notes": "It's unclear beyond that NYDN story whether Maple did end up working on this job. In 1997, Bratton was paid $128,000 to produce a 95-page report on the numerous problems within the New Bedford Police Department. Criticism of the report in local editorials noted that Bratton \" [skirted] around the issues of racism and sexism within the department\" and  might only lead to cosmetic improvements."
+			}
+		}, {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.649533, 39.319732]
+			},
+			"properties": {
+				"cartodb_id": 24,
+				"cop": "Maple",
+				"work": "consulting",
+				"location": "Baltimore, MD",
+				"year": 1999,
+				"notes": "Maple was the first police consultant hired by then-mayor Martin O'Malley to improve operations of the Baltimore Police Department. O'Malley was so taken by Maple's approach that when he was later elected to governor of Maryland, he applied the CompStat-like model he'd helped implement in Baltimore to the entire state's operations. Maple was also instrumental in facilitating the hiring of Bratton-era NYPD alum Edward Norris as Baltimore police commissioner. Norris would go on to be indicted on federal charges of stealing over $20,000 from the city police force. "
+			}
+		}
+	]
+}

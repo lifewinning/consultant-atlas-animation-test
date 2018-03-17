@@ -1,0 +1,617 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.800929,
+          33.530651
+        ]
+      },
+      "properties": {
+        "cartodb_id": 18,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Birmingham, AL",
+        "year": 1996,
+        "notes": "Bratton and John Timoney consulted for the Birmingham Police Department shortly after leaving New York. In his memoir, Timoney noted that while he was familiar with Bull Connor's legacy over the department, \"while we expected to see some problems within the department, the issue of race, we believed, was a thing of the past.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.568974,
+          -29.729642
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Fortaleza, Brazil",
+        "year": 1997,
+        "notes": "Consulting job with John TImoney. In his memoir, Timoney notes that their presence inadvertently sparked a series of protests by police officers demanding higher pay (something he writes he advocates for frequently, seeing as \"you get what you pay for\" when underpaying your officers)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.168428,
+          39.990821
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Philadelphia, PA",
+        "year": 1997,
+        "notes": "Bratton was hired to make recommendations to improve the Philadelphia Police Department's crime-fighting strategies and brought Timoney along for the job. Due in part to Bratton's heavy hinting that Timoney might want the job, Timoney was hired as Police Commissioner that same year. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.481065,
+          18.234668
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Puerto Rico",
+        "year": 1997,
+        "notes": "There's not a lot documented about this particular consulting job other than a Daily News Article in which Bratton mentions it and a job in New Bedford with Maple. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.945702,
+          41.667736
+        ]
+      },
+      "properties": {
+        "cartodb_id": 4,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "New Bedford, MA",
+        "year": 1997,
+        "notes": "In 1997, Bratton was paid $128,000 to produce a 95-page report on the numerous problems within the New Bedford Police Department. Criticism of the report in local editorials noted that Bratton \" [skirted] around the issues of racism and sexism within the department\" and  might only lead to cosmetic improvements."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099076,
+          51.509648
+        ]
+      },
+      "properties": {
+        "cartodb_id": 8,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "London, UK",
+        "year": 2001,
+        "notes": "Bratton was hired by Transport for London to consult on crime in the city's subway system. Upon announcement of the contract, Evening Standard reported a previous comment from Bratton about graffiti on the subway: \"Urban art, my ass. There's nothing artistic about this crap. The perpetrators are b******s. I hate them. If I had my way I would throw away the key.\" "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.157863,
+          40.913211
+        ]
+      },
+      "properties": {
+        "cartodb_id": 6,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Paterson, NJ",
+        "year": 2001,
+        "notes": "Bratton was hired to review security in the Paterson school system following the violent murder of a homeless man by teenaged students. Bratton was paid $62,000. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.87919,
+          10.48801
+        ]
+      },
+      "properties": {
+        "cartodb_id": 7,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Caracas, Venezuela",
+        "year": 2001,
+        "notes": "Bratton signed a $180,000 contract to work with the Caracas government in 2001. A US-back coup attempt against then-president Hugo Chavez took place in April 2002, during which police officers opened fire on demonstrators, killing 19. It's unclear how much, if any, influence or presence Bratton had on these events. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25703,
+          34.05513
+        ]
+      },
+      "properties": {
+        "cartodb_id": 9,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Los Angeles, CA",
+        "year": 2002,
+        "notes": "While working for consulting company Kroll Associates, Bratton was hired to monitor the implementation of a Department of Justice consent decree imposed following the Rampart scandal. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25703,
+          34.05513
+        ]
+      },
+      "properties": {
+        "cartodb_id": 10,
+        "cop": "Bratton",
+        "work": "commissioner",
+        "location": "Los Angeles, CA",
+        "year": 2002,
+        "notes": "Bratton applied for and was hired as LAPD chief while consulting on the implementation of the DOJ consent decree. He held the position until 2009, during which he continued implementing a broken windows approach to policing. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.630133,
+          -33.428532
+        ]
+      },
+      "properties": {
+        "cartodb_id": 12,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Santiago, Chile",
+        "year": 2011,
+        "notes": "In April 2011, Altegrity (the consulting firm Bratton joined in 2009 as head of its security consulting division) took on a $3.8 million contract with the Chilean government to study and propose changes to the nation's prison system. While there's little indication Bratton was directly involved in the project (Michael Berkow, who previously worked for Bratton at the LAPD, took the lead), Bratton's name and reputation were crucial in landing the contract.  In May 2011, Bratton was the guest of honor at the Chilean Ministry of the Interior and Public Security's launch of the Sistema Táctico de Análisis Delictual (STAD), a CompStat-like system for the Chilean national police force."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.143415,
+          39.785871
+        ]
+      },
+      "properties": {
+        "cartodb_id": 13,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Indianapolis, IN",
+        "year": 2011,
+        "notes": "Indianapolis Metropolitan Police Department public safety director Frank Straub hired Bratton and Altegrity to investigate the department's Professional Standards Division at a cost of $71,000."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099076,
+          51.509648
+        ]
+      },
+      "properties": {
+        "cartodb_id": 11,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "London, UK",
+        "year": 2011,
+        "notes": "Bratton returned to London to consult for the Metropolitan Police at the request of Prime Minister David Cameron following riots in the London area after the police murder of Mark Duggan. Cameron initially was considering hiring him to run the Police, but citizenship policies proved an obstacle. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.197811,
+          37.785199
+        ]
+      },
+      "properties": {
+        "cartodb_id": 14,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Oakland, CA",
+        "year": 2013,
+        "notes": "In January 2013, the Oakland City Council approved a $250,000 contract to hire Bratton as a consultant as the city faced all-time lows in police staffing. The contract was an extension and addition to an existing contract with Bratton's frequent collaborator Robert Wasserman, who had already been consulting with the city and convinced them to bring Bratton on. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649533,
+          39.319732
+        ]
+      },
+      "properties": {
+        "cartodb_id": 15,
+        "cop": "Bratton",
+        "work": "consulting",
+        "location": "Baltimore, MD",
+        "year": 2013,
+        "notes": "Out of a $285,834 contract Bratton received $53,785 for 96 hours of consulting on Baltimore's police-community relations with colleague Robert Wasserman. Wasserman had previously consulted with the city to recruit and hire commissioner Anthony Batts, who stepped down in 2015 in the wake of riots following the police murder of Freddie Gray.  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9708,
+          40.68295
+        ]
+      },
+      "properties": {
+        "cartodb_id": 16,
+        "cop": "Bratton",
+        "work": "commissioner",
+        "location": "New York, NY",
+        "year": 2014,
+        "notes": "Bratton returned to New York City at the request of then mayor-elect Bill deBlasio. During his two-year tenure the department faced numerous controversies, including the murders of Eric Garner and Akai Gurley at the hands of police, a massive corruption probe, and a city council investigation into lucrative consulting contracts issued by Bratton for former colleagues, including Robert Wasserman, John Linder, and \"broken windows theory\" architect George Kelling. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.800929,
+          33.530651
+        ]
+      },
+      "properties": {
+        "cartodb_id": 36,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Birmingham, AL",
+        "year": 1996,
+        "notes": "Bratton and John Timoney consulted for the Birmingham Police Department shortly after leaving New York. In his memoir, Timoney noted that while he was familiar with Bull Connor's legacy over the department, \"while we expected to see some problems within the department, the issue of race, we believed, was a thing of the past.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.281314,
+          53.33928
+        ]
+      },
+      "properties": {
+        "cartodb_id": 25,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Dublin, Ireland",
+        "year": 1996,
+        "notes": "Timoney participated on a \"blue-ribbon panel\" selected by the Ireland Ministry of Justice to review the national police force following the assassination of Irish investigative journalist Veronica Guerin. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85427,
+          39.91987
+        ]
+      },
+      "properties": {
+        "cartodb_id": 26,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Ankara, Turkey",
+        "year": 1997,
+        "notes": "Maple and John Timoney consulted the Turkish National Police Association, where Timoney once again encountered surprise at the legacy of police as instrument of state violence seemingly undermining public trust in the institution. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.454595,
+          -34.607357
+        ]
+      },
+      "properties": {
+        "cartodb_id": 27,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Buenos Aires, Argentina",
+        "year": 1997,
+        "notes": "As in his experiences in Ankara, Timoney lamented how the history of state-backed police violence in Buenos Aires \"dominated any conversation regarding reform\" when he consulted there. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.568974,
+          -29.729642
+        ]
+      },
+      "properties": {
+        "cartodb_id": 28,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Fortaleza, Brazil",
+        "year": 1997,
+        "notes": "Consulting job with Bill Bratton. In his memoir, Timoney notes that their presence inadvertently sparked a series of protests by police officers demanding higher pay (something he writes he advocates for frequently, seeing as \"you get what you pay for\" when underpaying your officers)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.168428,
+          39.990821
+        ]
+      },
+      "properties": {
+        "cartodb_id": 29,
+        "cop": "Timoney",
+        "work": "commissioner",
+        "location": "Philadelphia, PA",
+        "year": 1998,
+        "notes": "Thanks in part to Bill Bratton, John Timoney was hired to lead the Philadelphia Police Department by then mayor Ed Rendell. Among  notable incidents during his three-year tenure included a harsh crackdown on protestors during the 2000 Republican National Convention in Philadelphia, during which 380 people were arrested and activist spaces were raided by Philadelphia police, presumably to protect the RNC from the scourge of banners and large puppets."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.210268,
+          25.766368
+        ]
+      },
+      "properties": {
+        "cartodb_id": 30,
+        "cop": "Timoney",
+        "work": "commissioner",
+        "location": "Miami, FL",
+        "year": 2003,
+        "notes": "After a brief but under-documented return to private consulting, Timoney was selected to lead the Miami Police Department.  In his first year, Timoney employed what would later be known as the \"Miami model\" of coordinated brutal police crackdown on protests during trade negotiations for the Free Trade Area of the Americas agreement. For much of his tenure, Timoney left Miami frequently for public speaking and consulting engagements. He resigned in 2009. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294701,
+          19.251299
+        ]
+      },
+      "properties": {
+        "cartodb_id": 31,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Haiti",
+        "year": 2003,
+        "notes": "Little documentation beyond Timoney's own professional biography exists for this engagement. Unclear if this is an example of resume-puffery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.967722,
+          21.329612
+        ]
+      },
+      "properties": {
+        "cartodb_id": 33,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Guantanamo Bay, Cuba",
+        "year": 2005,
+        "notes": "It's unclear whether to call this engagement meaningful consulting or a photo-op–while Timoney listed his visit to GTMO on several professional biographies, reports from 2005 suggest he simply attended one of the many media-orchestrated tours of the detention camp at the base. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.614805,
+          32.765286
+        ]
+      },
+      "properties": {
+        "cartodb_id": 34,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Iraq",
+        "year": 2007,
+        "notes": "Timoney was a member of the Independent Commission on the Security Forces of Iraq, a commission appointed by Congress to asses the Iraqi Security Forces. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.551925,
+          26.020458
+        ]
+      },
+      "properties": {
+        "cartodb_id": 35,
+        "cop": "Timoney",
+        "work": "consulting",
+        "location": "Bahrain",
+        "year": 2011,
+        "notes": "Timoney was hired by the Bahrain Ministry of the Interior n December 2011 to consult with the Bahrain police in the wake of violent suppression of Arab Spring protests earlier that same year. Within a few months of joining the Ministry, three protestors died in police-related incidents. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.889852,
+          30.056708
+        ]
+      },
+      "properties": {
+        "cartodb_id": 17,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "New Orleans, LA",
+        "year": 1996,
+        "notes": "Maple and colleague John Linder were paid $900,000 over 18 months by the New Orleans Police Foundation to consult for the New Orleans Police Department. In a USA Today profile highlighting Maple's New Orleans work, Maple noted  \"You give me any department, anywhere, and I'll make it work. I could turn Washington, D.C., into Mayberry, RFD.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.048611,
+          42.355492
+        ]
+      },
+      "properties": {
+        "cartodb_id": 20,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "Boston, MA",
+        "year": 1997,
+        "notes": "Little documentation of this work other than a 1997 USA Today profile which noted that Maple's firm with John Linder \"already works with the transit police in Boston.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.185043,
+          40.718707
+        ]
+      },
+      "properties": {
+        "cartodb_id": 19,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "Newark, NJ",
+        "year": 1997,
+        "notes": "Maple and Linder were hired by the Newark Police Department for an eleven-month contract at a fee of $343,200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85427,
+          39.91987
+        ]
+      },
+      "properties": {
+        "cartodb_id": 21,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "Ankara, Turkey",
+        "year": 1997,
+        "notes": "Maple and John Timoney consulted the Turkish National Police Association, where Timoney once again encountered surprise at the legacy of police as instrument of state violence seemingly undermining public trust in the institution. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.481065,
+          18.234668
+        ]
+      },
+      "properties": {
+        "cartodb_id": 22,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "Puerto Rico",
+        "year": 1997,
+        "notes": "There's not a lot documented about this particular consulting job other than a Daily News Article in which Bratton mentions it and a job in New Bedford with Maple. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.945702,
+          41.667736
+        ]
+      },
+      "properties": {
+        "cartodb_id": 23,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "New Bedford, MA",
+        "year": 1997,
+        "notes": "It's unclear beyond that NYDN story whether Maple did end up working on this job. In 1997, Bratton was paid $128,000 to produce a 95-page report on the numerous problems within the New Bedford Police Department. Criticism of the report in local editorials noted that Bratton \" [skirted] around the issues of racism and sexism within the department\" and  might only lead to cosmetic improvements."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649533,
+          39.319732
+        ]
+      },
+      "properties": {
+        "cartodb_id": 24,
+        "cop": "Maple",
+        "work": "consulting",
+        "location": "Baltimore, MD",
+        "year": 1999,
+        "notes": "Maple was the first police consultant hired by then-mayor Martin O'Malley to improve operations of the Baltimore Police Department. O'Malley was so taken by Maple's approach that when he was later elected to governor of Maryland, he applied the CompStat-like model he'd helped implement in Baltimore to the entire state's operations. Maple was also instrumental in facilitating the hiring of Bratton-era NYPD alum Edward Norris as Baltimore police commissioner. Norris would go on to be indicted on federal charges of stealing over $20,000 from the city police force. "
+      }
+    }
+  ]
+}

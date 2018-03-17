@@ -61,7 +61,7 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-51.568974, -29.729642]
+				"coordinates": [-38.5217989,-3.7304512]
 			},
 			"properties": {
 				"cartodb_id": 28,

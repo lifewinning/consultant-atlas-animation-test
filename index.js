@@ -5,7 +5,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/lifewinning/cjd52cola5t0g2rnvua7d2frg',
-    center: [30.0010,-89.9421],
+    center: [-89.9421,30.0010],
     zoom: 10,
     //bearing: 27,
     //pitch: 45

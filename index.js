@@ -5,12 +5,11 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/lifewinning/cjd52cola5t0g2rnvua7d2frg',
-    center: [-0.15591514, 51.51830379],
-    zoom: 15.5,
+    center: [30.0010,-89.9421],
+    zoom: 10,
     //bearing: 27,
     //pitch: 45
 });
-
 // On every scroll event, check which element is on screen
 window.onscroll = function() {
     var chapterNames = Object.keys(chapters);

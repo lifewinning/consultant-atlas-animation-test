@@ -5,7 +5,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/lifewinning/cjd52cola5t0g2rnvua7d2frg',
-    center: [-89.9421,30.0010],
+    center: [-73.9797,40.6979],
     zoom: 10,
     //bearing: 27,
     //pitch: 45
@@ -47,11 +47,9 @@ map.on('style.load',function(){
         }
     })
 })
-var sortByProperty = function (property) {
-    return function (x, y) {
-        return ((x[property] === y[property]) ? 0 : ((x[property] > y[property]) ? 1 : -1));};
-    };
-
+function compare(a, b) {
+  return (a < b) ? -1 : (a > b) ? 1 : 0;
+}
 
 coords = []
 fetch('consulting-polygons.geojson')
@@ -59,7 +57,13 @@ fetch('consulting-polygons.geojson')
     return response.json();
   })
   .then(function(cops) {
-    feat = cops.features
+    feat = cops.features.sort(function(a,b){
+        return compare(a.properties.year, b.properties.year)
+      })
+    // .sort(function(a, b) {
+    //     return compare(a.properties.cop, b.properties.cop);
+    //   })
+      
     div = document.querySelector('#features')
     feat.forEach(function(e){
        newdiv = document.createElement('section')
